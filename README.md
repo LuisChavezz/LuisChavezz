@@ -2,6 +2,8 @@
 
 I'm a passionate Frontend Developer who thrives on creating beautiful, responsive, and user-friendly interfaces. I'm always excited to learn new technologies, embrace challenges, and grow both personally and professionally.  
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luis-alberto-ceja-ch%C3%A1vez-a39b06260/)
+
 💡 **What drives me?**  
 - 🚀 Exploring the latest in web development and design trends.  
 - 📚 Continuously learning to improve my skills and knowledge.  
@@ -27,3 +29,9 @@ I'm a passionate Frontend Developer who thrives on creating beautiful, responsiv
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+
+<br />
+
+[![LuisChavezz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisChavezz&show_icons=true&theme=radical)](https://github.com/LuisChavezz/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisChavezz&show_icons=true&theme=radical)](https://github.com/LuisChavezz/github-readme-stats)
