@@ -33,6 +33,3 @@ I'm a passionate Frontend Developer who thrives on creating beautiful, responsiv
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisChavezz&show_icons=true&theme=radical)](https://github.com/LuisChavezz/github-readme-stats)
-
-[![LuisChavezz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisChavezz&show_icons=true&theme=radical)](https://github.com/LuisChavezz/github-readme-stats)
-
